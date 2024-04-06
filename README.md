@@ -1,10 +1,11 @@
 # ETL-Data-Processor
 ## Database
 I utilized MySQL as the database to store my tables.
-'''
+
 create database sales;
+
 use sales;
-'''
+
 I created and used the database called 'sales' with the code above and then I executed my 'create_tables.sql' code to create the tables in 'sales'
 After inserting the data into the tables, I executed 'queries.sql' to author one or more SQL queries (SELECT statements) to demonstrate proper functionality.
 
