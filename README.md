@@ -1,6 +1,6 @@
 # ETL-Data-Processor
 ## Database
-I utilized MySQL as the database to store my tables.
+I utilized MySQL as the database to store my tables. I made this database using the root account and password. 
 
 create database sales;
 
